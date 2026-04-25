@@ -1,0 +1,1 @@
+A simple hosted Stremio addon manifest list (copy-roll) for easy sharing and installation.
